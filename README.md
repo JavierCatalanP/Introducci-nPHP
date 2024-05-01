@@ -1,2 +1,2 @@
-# CRUD_POO_PHP
-Introducción a PHP, POO con MVC
+# Introducción a PHP
+Preparando conceptos basicos para la creación de un CRUD (MVC)
