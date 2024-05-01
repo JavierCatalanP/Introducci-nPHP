@@ -10,5 +10,3 @@ echo '<h1>Aprendiendo PHP</h1>', '<br> <h3>vamos a aprender POO</h3>' ;
 
 print "Hola Mundo";
 echo "Hola Mundo";
-
-?>

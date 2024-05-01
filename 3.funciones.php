@@ -21,5 +21,3 @@ function retorno($retornar){
     return $retornar;
 }
 echo retorno('Retornando la función desde el parámetro retornar ');
-
-?>

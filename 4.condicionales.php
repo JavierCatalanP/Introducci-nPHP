@@ -14,6 +14,3 @@ else if($a == $b) {
 else {
     echo $a.' Es menor que: '.$b;
 }
-
-
-?>

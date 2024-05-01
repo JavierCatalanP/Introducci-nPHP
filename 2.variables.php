@@ -92,5 +92,3 @@ print_r($mueble); //imprimo todos los objetos
 echo '<br>Mueble 1 = '.$mueble->mueble1;
 echo '<br>Mueble 2 = '.$mueble->mueble2;
 echo '<br>Mueble 3 = '.$mueble->mueble3;
-
-?>
